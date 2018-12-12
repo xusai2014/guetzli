@@ -1,3 +1,6 @@
+# warnings!!!
+!!!! 切记透明背景图片压缩处理直接处理成黑色背景，如果有透明背景图片压缩请绕行
+
 <p align="center"><img src="https://cloud.githubusercontent.com/assets/203457/24553916/1f3f88b6-162c-11e7-990a-731b2560f15c.png" alt="Guetzli" width="64"></p>
 
 # Introduction
